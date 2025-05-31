@@ -1,0 +1,6 @@
+.gitignore
+.vscode/
+
+CMakeCache.txt
+CMakeFiles/
+build/
